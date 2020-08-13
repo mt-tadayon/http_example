@@ -1,6 +1,6 @@
 # http_example
 
-A new Flutter application.
+This is an example of a http call to get data and show them. The APIs is from the Google Books API. 
 
 ## Getting Started
 
